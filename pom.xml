@@ -82,4 +82,11 @@
 		</dependency>
 	</dependencies>
 
+	<repositories>
+		<repository>
+			<id>mlepicki-maven-repository</id>
+			<url>http://mlepicki.github.com/maven-repository/repository</url>
+		</repository>
+	</repositories>
+
 </project>
